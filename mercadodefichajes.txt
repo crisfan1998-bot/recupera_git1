@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sergio Ramos,Cristiano Ronaldo,Vinicius,Mbappe.
+=======
+Sergio Ramos,Cristiano Ronaldo,Yamine Lamal,Mbappe,Joaquín Sánchez.
+>>>>>>> prueba
